@@ -76,6 +76,10 @@ hr {
     left: 15%;
 }
 
+.mountain {
+    max-width: 100%;
+}
+
 .footer-link {
     margin: 20px 14px 20px 14px;
     text-decoration: none;
