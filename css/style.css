@@ -103,6 +103,7 @@ hr {
     text-align: right;
 }
 
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -144,4 +145,10 @@ hr {
 .bottom-container {
     padding: 40px 0;
     background-color: #66BFBF;
+}
+@media (max-width:720px){
+    .profile-p, .skill-row, .contact-me > p{
+        width: 100%;
+        margin: auto;
+    }
 }
